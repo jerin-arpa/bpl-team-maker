@@ -45,14 +45,14 @@ const Home = () => {
 
             <main className="my-10">
                 {/* container */}
-                <div className="flex gap-5">
+                <div className="flex flex-col-reverse md:flex-col-reverse lg:flex-row gap-5">
                     {/* card container */}
-                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 w-2/3">
+                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 w-full md:w-full lg:w-2/3">
                         {/* card */}
                         {
                             players.map(player => (
                                 <div key={player.id} className="rounded-2xl shadow-2xl bg-white">
-                                    <img className="rounded-t-2xl w-full h-36" src={player.image} alt="" />
+                                    <img className="rounded-t-2xl w-full h-44 md:h-44 lg:h-36" src={player.image} alt="" />
 
                                     <div className="my-5 px-4">
                                         <h2 className="text-xl"><span className=" font-bold">Name:</span> {player.name}</h2>
@@ -76,7 +76,7 @@ const Home = () => {
 
 
                     {/* cart container */}
-                    <div className="w-1/3">
+                    <div className="w-full md:w-full lg:w-1/3">
                         <Cart allPlayers={allPlayers} totalCost={totalCost}></Cart>
                     </div>
                 </div>
