@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/YNp8f9R/IMG-20230916-WA0006.jpg",
+        "name": "Mushfiqur Rahim",
+        "age": 33,
+        "country": "Bangladesh",
+        "salary": 100000
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/68m5JSv/IMG-20230916-WA0000.jpg",
+        "name": "Shakib Al Hasan",
+        "age": 34,
+        "country": "Bangladesh",
+        "salary": 150000
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/8XcskRf/IMG-20230916-WA0001.jpg",
+        "name": "Tamim Iqbal",
+        "age": 32,
+        "country": "Bangladesh",
+        "salary": 120000
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/FzrLNR1/IMG-20230916-WA0004.jpg",
+        "name": "Mustafizur",
+        "age": 26,
+        "country": "Bangladesh",
+        "salary": 90000
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co/rfTjzCF/IMG-20230916-WA0007.jpg",
+        "name": "Mahmudullah",
+        "age": 35,
+        "country": "Bangladesh",
+        "salary": 110000
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/HPXKP98/IMG-20230916-WA0008.jpg",
+        "name": "Liton Das",
+        "age": 28,
+        "country": "Bangladesh",
+        "salary": 85000
+    },
+    {
+        "id": 7,
+        "image": "https://i.ibb.co/tzjRTN8/IMG-20230916-WA0003.jpg",
+        "name": "Taskin Ahmed",
+        "age": 27,
+        "country": "Bangladesh",
+        "salary": 80000
+    },
+    {
+        "id": 8,
+        "image": "https://i.ibb.co/HCKxXMc/IMG-20230916-WA0002.jpg",
+        "name": "Mehidy Hasan",
+        "age": 24,
+        "country": "Bangladesh",
+        "salary": 75000
+    },
+    {
+        "id": 9,
+        "image": "https://i.ibb.co/FV3dg5t/IMG-20230916-WA0009.jpg",
+        "name": "Soumya Sarkar",
+        "age": 28,
+        "country": "Bangladesh",
+        "salary": 70000
+    }
+]

@@ -1,11 +1,12 @@
 
 import './App.css'
+import Home from './component/Home/Home'
 
 function App() {
 
   return (
     <>
-      <h1>BPL Team Maker</h1>
+      <Home></Home>
     </>
   )
 }
